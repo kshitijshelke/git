@@ -4,6 +4,8 @@ int main()
 
 
 {
- printf("hello");
+ printf("hello edited");
+ printf("lamborghini");
+ 
 	return 0;
 }
